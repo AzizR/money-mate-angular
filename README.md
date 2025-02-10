@@ -1,59 +1,36 @@
-# Client
+# 💰 Money Mate - Finance Tracking Application
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+### 📌 Overview
+**Money Mate** is a powerful and intuitive **finance tracking application** designed to help you manage your **income and expenses** effectively. With **Money Mate**, you can keep a close eye on your financial habits, generate insightful reports, and visualize your monthly spending patterns through interactive charts.
 
-## Development server
+### ✨ Features
+#### 📊 Track Your Finances
+- Log your **income** and **expenses** effortlessly.
+- Categorize transactions for better organization.
+- Attach notes to each transaction for additional details.
 
-To start a local development server, run:
+#### 📈 Insightful Reports
+- Generate **detailed reports** to analyze your financial health.
+- Get an overview of **monthly spending trends**.
+- Identify areas where you can **save money**.
 
-```bash
-ng serve
-```
+#### 📉 Visual Charts
+- Compare **monthly expenses** using **interactive charts**.
+- View spending breakdowns by **category**.
+- Spot patterns and trends to make better financial decisions.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+#### 🔒 Secure and User-Friendly
+- **Data security** is a priority – your information stays private.
+- Clean and **easy-to-use interface** for seamless navigation.
+- Accessible on multiple devices to **track finances on the go**.
 
-## Code scaffolding
+### 🚀 Why Choose Money Mate?
+✅ **Easy to Use** – Simple and intuitive design.  
+✅ **Comprehensive Reports** – Get deep insights into your spending habits.  
+✅ **Powerful Visuals** – Charts and graphs make analysis effortless.  
+✅ **Stay on Budget** – Identify overspending and optimize your finances.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+### 📥 Get Started Today!
+Take control of your financial future with **Money Mate**. Download now and start tracking your finances like a pro!
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+🌟 *Manage your money, achieve your goals!*
