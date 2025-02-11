@@ -1,0 +1,14 @@
+<section class="sidebar">
+  <ul>
+    <li matRipple>
+      <a routerLink="dashboard" [class]="{'active': currentPage() === 'dashboard'}" >
+        <mat-icon aria-hidden="false" aria-label="dashboard" fontIcon="home"></mat-icon>
+      </a>
+    </li>
+    <li matRipple>
+      <a routerLink="reports" [class]="{'active': currentPage() === 'reports'}" >
+        <mat-icon aria-hidden="false" aria-label="Example home icon" fontIcon="analytics"></mat-icon>
+      </a>
+    </li>
+  </ul>
+</section>

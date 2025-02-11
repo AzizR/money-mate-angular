@@ -1,0 +1,33 @@
+@use '@angular/material' as mat;
+
+.sidebar {
+  background-color: #18255D;
+  min-height: calc(100vh - 78px);
+  height: 100%;
+  color: white;
+
+  padding: 15px 0;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    a {
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+
+      &.active {
+        background-color: #f7f9fd;
+        color: #000;
+      }
+    }
+  }
+}

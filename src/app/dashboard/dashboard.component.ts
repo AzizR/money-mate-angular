@@ -1,8 +1,11 @@
-import { Component } from '@angular/core';
+import {Component, computed, signal} from '@angular/core';
+import { CardComponent } from "../ui/card/card.component";
+
 
 @Component({
   selector: 'app-dashboard',
-  imports: [],
+  imports: [CardComponent],
+  standalone: true,
   templateUrl: './dashboard.component.html',
   styleUrl: './dashboard.component.scss'
 })
